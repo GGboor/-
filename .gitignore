@@ -1,0 +1,27 @@
+# Build and test intermediates
+/_release/
+/_investigate/
+/test-output/
+/BuildIcon.exe
+/ScreenPilot.Tests.exe
+*.pdb
+*.tmp
+*.log
+/.vs/
+/bin/
+/obj/
+
+# Machine-specific diagnostics and configuration
+/verification-latest.txt
+/串流重连修复记录.txt
+/layout.xml
+/Recovery/
+/sunshine.conf*
+/sunshine_state.json
+/credentials/
+*.pem
+*.key
+
+# OS metadata
+Thumbs.db
+Desktop.ini
